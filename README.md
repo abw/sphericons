@@ -9,3 +9,25 @@ Inspiration was drawn from Angus Deveson's [Incredibly Satisfying Sphericons](ht
 on [Maker's Muse](https://www.youtube.com/channel/UCxQbYGpbdrh-b2ND-AfIybg)
 and Devin Montes' [My Super Sphericon Collection with Astrolabicon Puzzle](https://www.youtube.com/watch?v=eESLIrxw2x0&t=666s)
 video on [Make Anything](https://www.youtube.com/channel/UCVc6AHfGw9b2zOE_ZGfmsnw) channel.
+
+## Gallery
+
+### "Atom Bomb" Elliptic Star Hexasphericon
+Based on a profile created from three ellipses, similar to the simplified "electrons whizzing around a nucleus" diagram.
+
+![Atom Bomb Elliptic Star](images/Atom-Bomb-Elliptic-Star-Hexasphericon-F360.jpg)
+
+### "Orange Whip" Elliptic Star Decasphericon
+Two identical parts joined with a centre peg and magnets.  Separate moulded base fits the contours of the decasphericon.
+
+![Orange Whip Elliptic Star Decasphericon](images/Orange-Whip-Elliptic-Star-Decasphericon-F360.jpg)
+
+### Two Colour Decasphericon
+Printed in separate parts so suitable for single colour 3D printers.
+
+![Two Colour Decasphericon](images/Two-Colour-Decasphericon-F360.jpg)
+
+### Yin Yang Double Revolve
+Not a sphericon but created using the same revolve and twist method.  This has two separate revolves around different axes resulting in an interlocking Yin Yang form.
+
+![Yin Yang Double Revolve](images/Yin-Yang-Double-Revolve-F360.jpg)
