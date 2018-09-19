@@ -41,3 +41,9 @@ Not a sphericon but created using the same revolve and twist method.  This has t
 Another non-sphericon created using a series of revolutions around different axes.
 
 ![Strange Loops](images/Strange-Loops-F360.jpg)
+
+
+### Square Knot
+Created by sweeping and twisting a hexagon around the outer path of a dual sphericon.  There are three such paths, each perpendicular to each other.  One large one around the outside and two smaller ones nested inside.
+
+![Square Knot](images/Square-Knot-F360.jpg)
