@@ -31,3 +31,8 @@ Printed in separate parts so suitable for single colour 3D printers.
 Not a sphericon but created using the same revolve and twist method.  This has two separate revolves around different axes resulting in an interlocking Yin Yang form.
 
 ![Yin Yang Double Revolve](images/Yin-Yang-Double-Revolve-F360.jpg)
+
+### Nested Hexasphericons
+One hexasphericon inside another, rotated through 90 degrees.
+
+![Nested Hexasphericons](images/Nested-Hexasphericons-F360.jpg)
